@@ -1,2 +1,2 @@
 print("Hola, este es mi programa para la práctica de Git")
-print("Cambio realizado en rama2")
+print("Cambios combinados de rama1 y rama2")
